@@ -1,1 +1,1 @@
-#This is the clone of twitter using HTML and Tailwind CSS
+# This is the clone of twitter Home page using HTML and Tailwind CSS
